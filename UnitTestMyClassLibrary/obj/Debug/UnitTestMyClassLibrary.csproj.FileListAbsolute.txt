@@ -1,0 +1,16 @@
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\bin\Debug\UnitTestMyClassLibrary.dll
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\bin\Debug\UnitTestMyClassLibrary.pdb
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\obj\Debug\UnitTestMyClassLibrary.csproj.AssemblyReference.cache
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\obj\Debug\UnitTestMyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\obj\Debug\UnitTestMyClassLibrary.csproj.CopyComplete
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\obj\Debug\UnitTestMyClassLibrary.dll
+C:\Temple University\3309\MyClassLibrary\UnitTestMyClassLibrary\obj\Debug\UnitTestMyClassLibrary.pdb

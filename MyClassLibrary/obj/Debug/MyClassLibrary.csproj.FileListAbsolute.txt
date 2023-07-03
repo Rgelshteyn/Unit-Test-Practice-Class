@@ -1,0 +1,6 @@
+C:\Temple University\3309\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Temple University\3309\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Temple University\3309\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Temple University\3309\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Temple University\3309\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Temple University\3309\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.AssemblyReference.cache
